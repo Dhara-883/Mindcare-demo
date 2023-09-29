@@ -1,2 +1,2 @@
 # Mindcare-demo
-Author - Dhara Shah (mindcare)
+Author - Dhara Shah
